@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "June 2021 - May 2025",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"RGUKT, Basar",
+            "cardDetailedText": "CGPA - 8.1",
+            "icon" : {
+                "src": "images/education/rgukt.png"
+            }
+        },
+        {
+            "title": "June 2019- May 2021",
+            "cardTitle": "Pre-University Course",
+            "cardSubtitle":"RGUKT, Basar",
+            "cardDetailedText": "CGPA - 8.1",
+            "icon" : {
+                "src": "images/education/rgukt.png"
+            }
+        }
+    ]
+}

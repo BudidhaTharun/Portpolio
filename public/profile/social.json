@@ -1,0 +1,17 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/tharun-budidha/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/BudidhaTharun"
+        },
+        {
+            "network" : "email",
+            "href": "https://mail.google.com/mail/?view=cm&fs=1&to=tharunbudidha@gmail.com"
+
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/prescipto.png",
+            "title": "Prescripto -Doctor Appointment platform ",
+            "bodyText": "- Developed a Doctor Appointment web application for seamless appointment booking and management.\n- Implemented secure payment processing and image management features.\n- Enhanced system efficiency, reducing booking errors and improving user engagement."
+ ,"links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/BudidhaTharun/Prescripto-"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Redux",
+                "BootStrap",
+                "CSS",
+                "Stripe",
+                "Cloudinary",
+                "JavaScript",
+                "MongoDb"
+            ]
+        },
+        {
+            "image" : "images/projects/connect.png",
+            "title": "Connect",
+            "bodyText": "- Developed a real-time Chatting application enabling seamless communication among users.\n- Designed an intuitive interface for enhanced user engagement and interaction.\n- Integrated features for efficient message exchange and real-time updates."
+, "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/BudidhaTharun/Connect"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "BootStrap",
+                "Node.js",
+                "Redux",
+                "MongoDb",
+                "Express.js",
+                "Socket.io"
+            ]
+        },
+        {
+            "image" : "images/projects/spotify.png",
+            "title": "Spofity-clone Interface",
+            "bodyText": "- Developed a Spotify interface clone using **HTML** and **CSS**.\n- Replicated the user-friendly design and layout for enhanced visual appeal.\n- Ensured responsiveness across different screen sizes for optimal user experience."
+,"links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/BudidhaTharun/Spotify-Interface"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "BootStrap"
+            ]
+        }
+    ]
+}

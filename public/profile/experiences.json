@@ -1,0 +1,15 @@
+{
+    "experiences": [
+       
+        {
+            "title": "Frontend Developer intern",
+            "subtitle": "Techplement",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed and maintained responsive web applications using React.js, Redux, and JavaScript, enhancing user experience and performance.",
+"Collaborated with cross-functional teams to optimize state management and streamline component rendering."
+            ],
+            "dateText": "05/2024 – 06/2024"
+        }
+    ]
+}
